@@ -11,3 +11,4 @@ python/**/README.md
 !python/isogram
 !python/twelve-days
 !python/word-count
+!python/scrabble-score
