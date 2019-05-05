@@ -10,3 +10,4 @@ python/**/README.md
 !python/raindrops
 !python/isogram
 !python/twelve-days
+!python/word-count
