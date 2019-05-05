@@ -1,0 +1,11 @@
+python/*
+python/**/.exercism
+python/**/*.pyc
+python/**/__pycache__
+python/**/README.md
+!python/hello-world
+!python/two-fer
+!python/matrix
+!python/hamming
+!python/raindrops
+!python/isogram
