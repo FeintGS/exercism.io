@@ -12,3 +12,4 @@ python/**/README.md
 !python/twelve-days
 !python/word-count
 !python/scrabble-score
+!python/acronym
