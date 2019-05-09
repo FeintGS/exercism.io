@@ -14,3 +14,4 @@ python/**/README.md
 !python/scrabble-score
 !python/acronym
 !python/kindergarten-garden
+!python/clock
