@@ -16,3 +16,4 @@ python/**/README.md
 !python/kindergarten-garden
 !python/clock
 !python/luhn
+!python/reverse-string
