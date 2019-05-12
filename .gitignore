@@ -17,3 +17,4 @@ python/**/README.md
 !python/clock
 !python/luhn
 !python/reverse-string
+!python/leap
