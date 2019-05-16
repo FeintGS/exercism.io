@@ -21,3 +21,4 @@ python/**/README.md
 !python/isbn-verifier
 !python/rna-transcription
 !python/pangram
+!python/armstrong-numbers
