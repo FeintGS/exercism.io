@@ -20,3 +20,4 @@ python/**/README.md
 !python/leap
 !python/isbn-verifier
 !python/rna-transcription
+!python/pangram
