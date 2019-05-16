@@ -19,3 +19,4 @@ python/**/README.md
 !python/reverse-string
 !python/leap
 !python/isbn-verifier
+!python/rna-transcription
