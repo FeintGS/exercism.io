@@ -22,3 +22,4 @@ python/**/README.md
 !python/rna-transcription
 !python/pangram
 !python/armstrong-numbers
+!python/space-age
