@@ -25,3 +25,4 @@ python/**/README.md
 !python/space-age
 !python/dnd-character
 !python/series
+!python/knapsack
