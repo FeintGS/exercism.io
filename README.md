@@ -4,4 +4,4 @@ A repository containing my solutions to Exercism problems. You can find the prob
 # How do I run your solutions?
 Start by cloning my repo: `git clone git@github.com:Nagayoshi-dev/exercism.io.git`
 
-Afterwards, just navigate your way to a directory of interest. For now, all of my solutions are in python. You can run them interactively in your shell using the `python3` command.
+Afterwards, just navigate your way to a directory of interest. For now, all of my solutions are in python. You can run them interactively in your shell using the command `python3`.
